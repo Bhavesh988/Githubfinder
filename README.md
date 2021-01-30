@@ -1,3 +1,12 @@
+# Githubfinder
+
+A good preview of ur github profile with data visualization using ChartJs
+
+Link :- https://githubfinder-37hsce05u.vercel.app
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
